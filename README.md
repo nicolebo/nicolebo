@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=50&descAlign=100)
+<h1 align='center'>
+Hello! I'm Nico <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ⚡
+</h1>
 
-<!--
-**nicolebo/nicolebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/nicolas-lebovits">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  📫 You can reach me here: <a href='mailto:nicolaslebovits@gmail.com'>nicolaslebovits@gmail.com</a>
+</p>
